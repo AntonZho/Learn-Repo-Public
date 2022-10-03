@@ -1,2 +1,4 @@
 jakies dane:
 
+Nowa funkcjonalność.
+
